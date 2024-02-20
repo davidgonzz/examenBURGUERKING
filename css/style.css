@@ -1,0 +1,17 @@
+.bg-beige {
+    background-color: #f6ebdc;
+}
+.bg-marron {
+    background-color: #512314;
+}
+.text-marron {
+    color: #512314;
+}
+.text-beige {
+    color: #f6ebdc;
+}
+.vertical-line {
+    border-left: 1px solid #ccc;
+    height: 100px;
+    margin-left: 20px; 
+}
